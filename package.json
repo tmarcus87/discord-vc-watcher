@@ -1,0 +1,18 @@
+{
+  "name": "discord-vc-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/tmarcus87/discord-vc-watcher"
+  },
+  "author": "Takahiko ONO <t.marcus1987@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
